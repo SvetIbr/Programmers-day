@@ -24,5 +24,5 @@ public class Praktikum {
         } else {
             return year % 4 == 0;
         }
-    }
+    } //ilya.korenchuk: без замечаний
 }
